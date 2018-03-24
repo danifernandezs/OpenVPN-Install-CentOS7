@@ -8,10 +8,10 @@ Puedes usar, mejorar y corregirme los posibles problemas en este repo que tiene 
 
 Los pasos en el fichero Instalar.
 
-# LICENSE
+## LICENSE
 
 <img src="./img/license/by-sa.png">
 
-Mis notas quedan bajo licencia Creative Commons Attribution-ShareAlike 4.0 International License. 
+Mis notas quedan bajo licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 Se puede revisar el fichero de licencia para ms información.
