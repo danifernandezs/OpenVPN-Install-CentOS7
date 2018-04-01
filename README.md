@@ -28,10 +28,10 @@ Due to the latest update using EasyRSA3, the process is now divided into two par
 [With Easy-RSA3](./files/eng/witheasyrsa3.md)
 
 
-## LICENSE
+## LICENCIA/LICENSE
 ![License Logo](./img/license/by-sa.png)
 
-Mis notas quedan bajo licencia [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Mis notas quedan bajo licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
 
 Se puede revisar el fichero de licencia para más información.
 
