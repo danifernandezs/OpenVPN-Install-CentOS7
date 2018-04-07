@@ -12,6 +12,24 @@ Debido a la última actualización que emplea EasyRSA3, ahora está separado el 
 
 [Con Easy-RSA3](./files/spa/coneasyrsa3.md)
 
+
+----------
+
+
+En la carpeta files he subido el source de OpenVPN en versión 2.4.5 y EasyRSA2.2.2
+
+Repositorio oficial de OpenVPN
+
+[https://github.com/OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)
+
+Repositorio oficial de EasyRSA
+
+[https://github.com/OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa)
+
+
+----------
+
+
 # OpenVPN server on CentOS7
 
 This repo have my personal guide to intall an OpenVPN server on CentOS7.
@@ -26,6 +44,23 @@ Due to the latest update using EasyRSA3, the process is now divided into two par
 [With Easy-RSA2](./files/eng/witheasyrsa2.md)
 
 [With Easy-RSA3](./files/eng/witheasyrsa3.md)
+
+
+----------
+
+
+In files folder i upload de source for the 2.4.5 version of OpenVPN and EasyRSA2.2.2
+
+OpenVPN official repository
+
+[https://github.com/OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)
+
+EasyRSA official repository
+
+[https://github.com/OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa)
+
+
+----------
 
 
 ## LICENCIA/LICENSE
