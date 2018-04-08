@@ -115,7 +115,7 @@ For the sign and the commit, we need to answer "yes"
 > ./build-key-server server
 * Generate the Diffie-Hellman file
 
-This procces depend the CPU of your server, can take a few minutes
+This process depend the CPU of your server, can take a few minutes
 
 > ./build-dh
 * Generate the keys for the clients
@@ -160,7 +160,7 @@ In this exaple: eth0
 We add for the configured network at openvpn server, in this repo the subnet is: 10.8.0.0/24
 
 > iptables -t nat -A POSTROUTING -s  10.8.0.0/24  -o eth0 -j MASQUERADE
-* Save the iptables rules for a persistent file
+* Save the iptables rules to a file for persistent iptables
 > iptables-save > /etc/sysconfig/iptables
 * Enable the openvpn service
 > systemctl enable openvpn@server.service
