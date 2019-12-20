@@ -1,6 +1,6 @@
 
 # Fichero de Cliente/Client File - EJEMPLO/EXAMPLE
-
+````
 client
 dev tun
 proto udp
@@ -17,3 +17,4 @@ verb 3
 ca ca.crt
 cert client1.crt
 key client1.key
+````
